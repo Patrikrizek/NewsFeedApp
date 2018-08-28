@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height">90dp</dimen>
+    <dimen name="padding">16dp</dimen>
+
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_author">14sp</dimen>
+    <dimen name="text_size_section">12sp</dimen>
+    <dimen name="text_size_date">10sp</dimen>
+
+    <dimen name="dividerHeight">0dp</dimen>
+</resources>
